@@ -1,7 +1,7 @@
 ### 🖊️ Exercise – LinkedList
 
 - [displayelements.java](LinkedList/displayelements.java)
-- [displayelements.png](LinkedList/displayelements.png)
+- https://github.com/KUSUMA-74/Advanced_Java/blob/main/LinkedList/displayelements.png
 
 - [insertelement.java](LinkedList/insertelement.java)
 - [insertelement.png](LinkedList/insertelement.png)
