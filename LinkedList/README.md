@@ -3,7 +3,7 @@
 - https://github.com/KUSUMA-74/Advanced_Java/blob/main/LinkedList/displayelements.java
 - https://github.com/KUSUMA-74/Advanced_Java/blob/main/LinkedList/displayelements.png
 
-- [insertelement.java](LinkedList/insertelement.java)
+- https://github.com/KUSUMA-74/Advanced_Java/blob/main/LinkedList/insertelement.java
 - [insertelement.png](LinkedList/insertelement.png)
 
 - [reverseorder.java](LinkedList/reverseorder.java)
