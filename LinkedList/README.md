@@ -1,17 +1,16 @@
-## 🔁 LinkedList Programs
+### 🖊️ Exercise – LinkedList
 
 - [displayelements.java](LinkedList/displayelements.java)
-- ![Output](LinkedList/displayelements.png)
+- [displayelements.png](LinkedList/displayelements.png)
 
 - [insertelement.java](LinkedList/insertelement.java)
-- ![Output](LinkedList/insertelement.png)
+- [insertelement.png](LinkedList/insertelement.png)
 
 - [reverseorder.java](LinkedList/reverseorder.java)
-- ![Output](LinkedList/reverseorder.png)
+- [reverseorder.png](LinkedList/reverseorder.png)
 
 - [specifiedposition.java](LinkedList/specifiedposition.java)
-- ![Output](LinkedList/specifiedposition.png)
+- [specifiedposition.png](LinkedList/specifiedposition.png)
 
 - [swapElement.java](LinkedList/swapElement.java)
-- ![Output](LinkedList/swapElement.png)
-
+- [swapElement.png](LinkedList/swapElement.png)
