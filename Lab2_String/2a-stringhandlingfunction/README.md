@@ -1,1 +1,4 @@
-Output Link :https://github.com/KUSUMA-74/Advanced_Java/blob/main/2a-stringhandlingfunction/stringOperationDemo.png
+📌 Program 2a: String Handling Function  
+
+🖼️ Output   
+• [pr-StringOperationDemo](https://github.com/KUSUMA-74/Advanced_Java/blob/main/Lab2_String/2a-stringhandlingfunction/StringOperationsDemo.png)
