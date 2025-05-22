@@ -2,7 +2,6 @@
 
 ### ArrayList and LinkedList Output
 - [ArrayList and LinkedList Output 1](https://github.com/KUSUMA-74/Advanced_Java/blob/main/Lab1_List/List/ListInterfaceDemo.png)  
-- [ArrayList and LinkedList Output 1](https://github.com/KUSUMA-74/Advanced_Java/blob/main/Lab1_List/List/ListInterfaceDemo.png)  
 
 ### 📝 Exercise - ArrayList
 - [ArrayList_1 - deleteElements](https://github.com/KUSUMA-74/Advanced_Java/blob/main/Lab1_List/Lab1a_ArrayList/deleteElements.png)  
